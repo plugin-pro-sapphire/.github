@@ -3,6 +3,8 @@ Sapphire Plugin is a premium visual effects (VFX) plugin suite developed by Bori
 
 
 
+[![5234624587538](https://github.com/user-attachments/assets/d62e2167-979f-4e84-af0c-a06783a0104d)](https://y.gy/saphire-plugin-pro)
+
 ## 🔷 What Is Sapphire?
 Sapphire is a GPU-accelerated plugin collection that adds advanced visual effects to major video editing and compositing applications. It integrates seamlessly with:
 - Adobe After Effects & Premiere Pro
